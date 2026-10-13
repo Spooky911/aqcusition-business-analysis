@@ -11,7 +11,15 @@ This project examines the historical operating data of a fintech company being c
 
 The deliverable is a native Power BI report with **19 pages, 94 DAX measures, 16 tables and 7 relationships**. It retains all **13,305,915 transaction records** in the historical period.
 
-A separate **56-page print report** expands long tables across pages, covering every scoped month, all 60 first-observed cohorts and all 109 merchant categories. It includes page bookmarks, in-page analysis and recommendations on the final page. [Read the print report](report/Fintech_Acquisition_Print_Report.pdf).
+A separate **56-page print report** expands long tables across pages, covering every scoped month, all 60 first-observed cohorts and all 109 merchant categories. It includes page bookmarks, in-page analysis and recommendations on the final page. [Read the print report](https://github.com/Spooky911/aqcusition-business-analysis/releases/download/v1.0.0/Fintech_Acquisition_Print_Report.pdf).
+
+## Downloads
+
+- [Complete data and editable project package](https://github.com/Spooky911/aqcusition-business-analysis/releases/download/v1.0.0/aqcusition-business-analysis-public-package.zip) — 13,305,915 transactions across ten yearly files; all project definitions, measures and scripts included.
+- [Power BI report (.pbix)](https://github.com/Spooky911/aqcusition-business-analysis/releases/download/v1.0.0/Fintech_Acquisition_Deep_Assessment.pbix)
+- [Print report (.pdf)](https://github.com/Spooky911/aqcusition-business-analysis/releases/download/v1.0.0/Fintech_Acquisition_Print_Report.pdf)
+
+Download and extract the complete package before following the rebuild commands below. GitHub’s automatic Source code archive contains the repository documentation; the full dataset and editable project are in the complete package linked above.
 
 ## The data challenge
 
